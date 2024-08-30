@@ -1,0 +1,16 @@
+api/test/ApiTestMethod.class
+api/test/addAuthenticationToTestCases/SpecBuilder.class
+api/test/httpMethods/PostRequest.class
+api/test/ApiTest.class
+api/test/httpMethods/ApiRequest.class
+api/test/httpMethods/DeleteRequest.class
+api/test/testExecutionOrder/CustomTestListener.class
+api/test/addAuthenticationToTestCases/AuthTokenUtil.class
+api/test/requestFactory/ApiRequestFactory.class
+api/test/httpMethods/PutRequest.class
+api/test/testExecutionOrder/CustomMethodInterceptor.class
+api/test/httpMethods/PatchRequest.class
+api/test/userJourney/ApiTestForUserJourney.class
+api/test/testExecutionOrder/CustomMethodInterceptorForUserJourney.class
+api/test/userJourney/ApiTestMethodForUserJourney.class
+api/test/httpMethods/GetRequest.class
